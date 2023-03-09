@@ -1,9 +1,9 @@
 # Andie Gong
 
 ## About me
-Welcome to my personal website! I'm originally from in Davis, California, indeed home to many cows, sheep (iykyk), and a very tiny dowtown. I moved to the Bay Area for college at UC Berkeley, where I fully nerded-out and majored in physics! I am deeply thankful to be a rising fourth-year medical student at UCLA, currently doing full-time research in computer vision in medical imaging!
+Welcome to my personal website! I'm originally from in Davis, California, indeed home to many cows, sheep (iykyk), and a very tiny downtown. I studied physics at UC Berkeley, where I made lifelong friends and became the human I am today! I am a rising fourth-year medical student at UCLA and am deeplhy thankful to have the opportunity for full-time research at the [UCLA Center for Computer Vision and Imaging Biomarkers](https://cvib.ucla.edu/), where I am exploring my interests in imaging oncology, medical physics, and computational research. 
 
-I am proudly queer, gender non-binary (they/them pronouns, please!), and first-generation Chinese-American. I spend most of my free time climbing both indoors and out! I also enjoy string music (was a member of the University Baroque Ensemble in college!) and doing anything with friends!
+I am proudly queer, gender non-binary (they/them pronouns, please!), and first-generation Chinese-American. I spend most of my free time climbing both indoors and out! I also enjoy string music (was a member of the [University Baroque Ensemble](https://music.berkeley.edu/performance-opportunities/university-baroque-ensemble/) in college!) and doing anything with friends.
 
 ## Clinical Interests
 
