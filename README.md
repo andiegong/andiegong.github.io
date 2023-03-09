@@ -14,7 +14,7 @@ I am proudly queer, gender non-binary (they/them pronouns, please!), and first-g
 > M.D. expected in June 2024\
 > Awards and Distinctions:
 > - David Geffen Medical Scholarship (full-tuition merit scholarship and living stipend)
-> - Gold Humanism Honor Society Member, David Geffen School of Medicine Chapter
+> - [Gold Humanism Honor Society] (https://medschool.ucla.edu/education/md-education/student-life-and-events/gold-humanism-honor-society) Member, David Geffen School of Medicine Chapter
 
 - **University of California, Berkeley**, Aug 2015 – May 2019
 > B.A. in Physics, College of Letters and Sciences\
