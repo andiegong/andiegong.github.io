@@ -14,6 +14,7 @@
 > Awards and Distinctions:\
 > - David Geffen Medical Scholarship (full-tuition merit scholarship and living stipend)\
 > - Gold Humanism Honor Society Member, David Geffen School of Medicine Chapter\ 
+
 - **University of California, Berkeley**, Aug 2015 – May 2019
 > B.A. in Physics, College of Letters and Sciences\
 > Awards and Distinctions: High Distinction in General Scholarship (*magna cum laude*)\
