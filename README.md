@@ -11,13 +11,13 @@
 ## Education
 - **University of California, Los Angeles: David Geffen School of Medicine**, Aug 2019 – present
 > M.D. expected in June 2024\
-> Awards and Distinctions:\
-> - David Geffen Medical Scholarship (full-tuition merit scholarship and living stipend)\
-> - Gold Humanism Honor Society Member, David Geffen School of Medicine Chapter\ 
+> Awards and Distinctions:
+> - David Geffen Medical Scholarship (full-tuition merit scholarship and living stipend)
+> - Gold Humanism Honor Society Member, David Geffen School of Medicine Chapter
 
 - **University of California, Berkeley**, Aug 2015 – May 2019
 > B.A. in Physics, College of Letters and Sciences\
-> Awards and Distinctions: High Distinction in General Scholarship (*magna cum laude*)\
+> Awards and Distinctions: High Distinction in General Scholarship (*magna cum laude*)
 
 ## Contact
 gongandie [at] gmail [dot] com
