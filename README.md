@@ -1,9 +1,12 @@
 # Andie Gong
 
-## About me
-Welcome to my personal website! I'm originally from Davis, California - indeed home to many cows, sheep (iykyk), and a very tiny downtown. I studied physics at UC Berkeley, where I made lifelong friendships and became the human I am today. I am a rising fourth-year medical student at UCLA and am thankful to have had the opportunity for full-time research at the [UCLA Center for Computer Vision and Imaging Biomarkers](https://cvib.ucla.edu/), where I am persuing my interests in the interesection of oncologic imaging, medical physics, and computational research.
+## Coming soon!
+This website is currently under development by your very own Andie Gong!
 
-I am proudly queer, gender non-binary (they/them pronouns, please!), and first-generation Chinese-American. I spend most of my free time climbing, both indoors and out. I also enjoy string music (was a member of the [University Baroque Ensemble](https://music.berkeley.edu/performance-opportunities/university-baroque-ensemble/) in college) and doing anything with friends.
+## About me
+Welcome to my personal website! I'm originally from Davis, California and I studied physics at UC Berkeley, where I made lifelong friendships and became the human I am today. I am a fourth-year medical student at UCLA and I am persuing a career in Diagnoistic Radiology! I have the deepest gratitude for the opportunities to work with the [UCLA Center for Computer Vision and Imaging Biomarkers](https://cvib.ucla.edu/), where I have been exploring my interests in oncologic imaging, medical physics, and computational research.
+
+I am proudly queer, transgender (they/them pronouns, please!), and first-generation Chinese-American. I spend most of my free time climbing, both indoors and out. I also enjoy string music and was a member of the [University Baroque Ensemble](https://music.berkeley.edu/performance-opportunities/university-baroque-ensemble/) throughout all years in college.
 
 ## Clinical Interests
 
@@ -25,6 +28,3 @@ I am proudly queer, gender non-binary (they/them pronouns, please!), and first-g
 
 ## Contact
 gongandie [at] gmail [dot] com
-
-## About this Site
-This site is currently under development (by yours truly) and hosted on GitHub Pages.
