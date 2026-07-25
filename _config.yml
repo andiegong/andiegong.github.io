@@ -1,0 +1,20 @@
+title: Andie Gong
+description: >-
+  Personal website of Andie Gong.
+url: "https://andiegong.com"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+nav:
+  - title: Home
+    path: /
+  - title: CV
+    path: /cv/
+  - title: Research & Publications
+    path: /research/
+
+exclude:
+  - README.md
+  - LICENSE
