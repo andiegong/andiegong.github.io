@@ -10,7 +10,16 @@ permalink: /research/
 
 ## Research Interests
 
-My research interests include the intersection of oncologic imaging, medical physics, and computational methods, with a focus on quantitative treatment response assessment. I have experience in quantitative/volumetric approaches to treatment response assessment (by RECIST 1.1) in longitudinal CT. My current work includes automating RANO 2.0 treatment response assessment in patients with glioblastoma.
+My research interests include computational methods in medical imaging, particularly in quantifying oncologic treatment response assessment. My prior work centered on volumetric approaches to treatment response assessment by RECIST 1.1 criteria in longitudinal CT. My current work includes automating RANO 2.0 treatment response assessment in patients with glioblastoma.
+
+## Awards and Grants
+
+- RSNA Research Medical Student Grant, Fall 2022
+- Leo G. Rigler Outstanding Senior Medical Student in Radiology, UCLA David Geffen School of Medicine, June 2024
+
+## Peer Review Experience
+
+- [RadioGraphics (RG TEAM)](https://pubs.rsna.org/page/radiographics/rgteam/edboard) Trainee Editorial Board Member, 2026–2027
 
 ## Peer-reviewed Publications
 
